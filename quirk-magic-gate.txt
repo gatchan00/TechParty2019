@@ -1,0 +1,15 @@
+1,1,1,1
+1,1,1,-1
+1,1,1,1
+1,1,-1,-1
+
+puerta para mostrar la interferencia con un circuito de tipo (siendo | | mi puerta de 2 qbits)
+
+H | |  
+H | | 
+-> da 2 estados muy probables
+
+
+H   | |  
+H Z | | 
+-> anula estados y da uno muy probable
